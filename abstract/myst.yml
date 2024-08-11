@@ -40,7 +40,7 @@ site:
   template: article-theme
   actions:
     - title: poster
-      url: abstract/presentation/AGUcasing2022.png
+      url: presentation/AGUcasing2022.pdf
       static: true
     # - title: slides
     #   url: presentation/SLIDES-NAME.pdf
