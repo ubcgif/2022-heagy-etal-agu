@@ -2,7 +2,7 @@
 
 _Lindsey J. Heagy and Douglas W. Oldenburg_
 
-![thumbnail](./abstract/thumbnail.png)
+![thumbnail](./presentation/AGUcasing2022.png)
 
 ## Summary 
 
